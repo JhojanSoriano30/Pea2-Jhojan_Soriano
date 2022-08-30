@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.AppWind\\Producto.AppWind.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.AppWind\\Producto.AppWind.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.AppWind\\Producto.AppWind.csproj",
+        "projectName": "Producto.AppWind",
+        "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.AppWind\\Producto.AppWind.csproj",
+        "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.AppWind\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visOtr\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj": {
+                "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj"
+              },
+              "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\Producto.Logic.csproj": {
+                "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\Producto.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\Producto.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\Producto.Data.csproj",
+        "projectName": "Producto.Data",
+        "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\Producto.Data.csproj",
+        "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visOtr\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj": {
+                "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj",
+        "projectName": "Producto.Dominio",
+        "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj",
+        "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visOtr\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\Producto.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\Producto.Logic.csproj",
+        "projectName": "Producto.Logic",
+        "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\Producto.Logic.csproj",
+        "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visOtr\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\Producto.Data.csproj": {
+                "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Data\\Producto.Data.csproj"
+              },
+              "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj": {
+                "projectPath": "C:\\Users\\CLIENTE\\Documents\\CLASE-Desarollo de soluciones empresariales\\Pea2\\SolutionPea2\\Producto.Dominio\\Producto.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
